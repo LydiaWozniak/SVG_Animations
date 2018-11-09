@@ -73,7 +73,8 @@ caniuse.com
 ### Performance
 [source](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
-The most performant things to animate are styles that affect paint. Modern browsers can animate four things really cheaply: position, scale, rotation and opacity.
+Modern browsers can animate four things really cheaply: position, scale, rotation and opacity. The most performant things to animate are styles that affect paint.
+
 ```
 color	
 border-style
