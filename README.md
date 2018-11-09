@@ -1,4 +1,4 @@
-##SVG
+# SVG
 - Scalable Vector Graphics
 - Coordinate system with an x and y axis.
 -	The origin is in the top-left corner.
