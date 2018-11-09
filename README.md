@@ -64,11 +64,59 @@ caniuse.com
 
 ```
  .dot1{
- animation: myAnimation 10s ease-out 2s 0 none ;
+ animation: myAnimation 10s ease-out 2s 0 none;
 }
 ```
 
 `animation: keyframes_name duration timing_function delay iteration_count fill_mode;`
+
+### Performance
+[source](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+
+The most performant things to animate are styles that affect paint. Modern browsers can animate four things really cheaply: position, scale, rotation and opacity.
+
+color	
+border-style
+visibility	
+background
+text-decoration	
+background-image
+background-position	
+background-repeat
+outline-color	
+outline
+outline-style	
+border-radius
+outline-width	
+box-shadow
+background-size
+
+The least performant things to animate are those which affect layout.
+
+width	
+height
+padding	
+margin
+display	
+border-width
+border	
+top
+position	
+font-size
+float	
+text-align
+overflow-y	
+font-weight
+overflow	
+left
+font-family	
+line-height
+vertical-align	
+right
+clear	
+white-space
+bottom	
+min-height
 
 
 ### Animating in React
