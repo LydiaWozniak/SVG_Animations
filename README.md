@@ -31,6 +31,7 @@ caniuse.com
 </object>
 
 ```
+# Animations & Transistions
 
 ### Animating in React
 
