@@ -19,6 +19,8 @@ caniuse.com
 
 * Coordinate system with an x and y axis and the origin is at the top-left corner.
 
+* The size of the whole image in this example is 1000 x 1000.
+
 <img src="https://d33wubrfki0l68.cloudfront.net/fedcd70d34fc3a5dea2369e727b6a8e7081de43b/3496e/images/initial-coordinate-systems.jpg" width="500">
 
 * Using SVG inline or within <object> provides developers with the widest range of customisation.
