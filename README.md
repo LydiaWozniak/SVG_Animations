@@ -74,7 +74,7 @@ caniuse.com
 [source](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 The most performant things to animate are styles that affect paint. Modern browsers can animate four things really cheaply: position, scale, rotation and opacity.
-
+```
 color	
 border-style
 visibility	
@@ -90,9 +90,9 @@ border-radius
 outline-width	
 box-shadow
 background-size
-
+```
 The least performant things to animate are those which affect layout.
-
+```
 width	
 height
 padding	
@@ -117,7 +117,7 @@ clear
 white-space
 bottom	
 min-height
-
+```
 
 ### Animating in React
 
