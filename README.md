@@ -35,7 +35,7 @@ caniuse.com
 ### Animating in React
 
 In react Animations can be more complicated as they often involve manipulating the component lifecycle and often need to delay DOM updates. 
-ReactCCTransitionGroup ` react-transition-group `
+ReactCssTransitionGroup ` react-transition-group `
 
 More Things to Look at:
 * Clip Paths
