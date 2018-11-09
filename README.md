@@ -8,11 +8,10 @@ caniuse.com
 
 ### SVG can be implemented inline.
 
- ` <svg class="blob" height="1000" width="1000">`
-    
-`    <circle class="dot" cx="50" cy="50" r="50" stoke="none" fill="black" />`
-    
-`  </svg>`
+ ``` <svg class="blob" height="1000" width="1000">
+       <circle class="dot" cx="50" cy="50" r="50" stoke="none" fill="black" />
+     </svg>
+ ```
 
 * This is a solid black circle with the origin (50, 50), a radius of 50.
 
@@ -22,10 +21,8 @@ caniuse.com
 
 * Using SVG inline or within <object> provides developers with the widest range of customisation.
  
-`<object type="image/svg+xml" data="kiwi.svg" class="logo">`
-
-`  Kiwi Logo <!-- fallback image in CSS -->`
-
-
-`</object>`
+```<object type="image/svg+xml" data="kiwi.svg" class="logo">
+     Kiwi Logo <!-- fallback image in CSS -->
+   </object>
+```
 
