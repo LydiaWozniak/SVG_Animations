@@ -125,7 +125,11 @@ min-height
 In react Animations can be more complicated as they often involve manipulating the component lifecycle and often need to delay DOM updates. 
 ReactCssTransitionGroup ` react-transition-group `
 
-More Things to Look at:
+## More Things to Look at:
 * Clip Paths
-* 
+* Filters
+* View-box
+*
+*
+*
 
