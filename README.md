@@ -23,7 +23,7 @@ caniuse.com
 
 <img src="https://d33wubrfki0l68.cloudfront.net/fedcd70d34fc3a5dea2369e727b6a8e7081de43b/3496e/images/initial-coordinate-systems.jpg" width="500">
 
-* Using SVG inline or within <object> provides developers with the widest range of customisation.
+* Using SVG inline or within `<object>` provides developers with the widest range of customisation.
  
 ```
 <object type="image/svg+xml" data="kiwi.svg" class="logo">
@@ -31,4 +31,13 @@ caniuse.com
 </object>
 
 ```
+
+### Animating in React
+
+In react Animations can be more complicated as they often involve manipulating the component lifecycle and often need to delay DOM updates. 
+ReactCCTransitionGroup ` react-transition-group `
+
+More Things to Look at:
+* Clip Paths
+* 
 
