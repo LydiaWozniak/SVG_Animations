@@ -64,7 +64,7 @@ caniuse.com
 
 ```
  .dot1{
- animation: blob-anim-one 10s ease-out 2s;
+ animation: myAnimation 10s ease-out 2s 0 none ;
 }
 ```
 
