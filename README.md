@@ -33,6 +33,44 @@ caniuse.com
 ```
 # Animations & Transistions
 
+## Transitions
+
+* Transistions can be used to smoothly change a CSS property for pseudo-class or change of class.
+
+* For SVG paths with the same number of points can be transitioned by using the d property. 
+```
+ .btn:hover path{
+  d: path("M 5,10 L 7.5,15 M 15,5 L 7.5,15");
+  stroke: #27AE60;
+}
+```
+
+
+## Animations
+
+* To animate separate parts of the SVG image either enclosing `<g>` tags can be added or clasees `class="part_one"`.
+* In CSS keyframes can be used to describe animations. 
+
+```
+  @keyframes myAnimation{
+    0{
+      transform:translate(50px, 50px);
+    }
+    100%{
+      transform:translate(1000px, 100px);
+    }
+  }
+```
+
+```
+ .dot1{
+ animation: blob-anim-one 10s ease-out 2s;
+}
+```
+
+`animation: keyframes_name duration timing_function delay iteration_count fill_mode;`
+
+
 ### Animating in React
 
 In react Animations can be more complicated as they often involve manipulating the component lifecycle and often need to delay DOM updates. 
