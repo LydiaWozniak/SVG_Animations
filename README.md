@@ -35,6 +35,8 @@ caniuse.com
 
 ## Transitions
 
+[Example](https://codepen.io/LydiaMoo/pen/mQErOQ)
+
 * Transistions can be used to smoothly change a CSS property for pseudo-class or change of class.
 
 * For SVG paths with the same number of points can be transitioned by using the d property. 
@@ -47,6 +49,8 @@ caniuse.com
 
 
 ## Animations
+
+[Example](https://codepen.io/LydiaMoo/pen/pQbEEj?editors=1100)
 
 * To animate separate parts of the SVG image either enclosing `<g>` tags can be added or clasees `class="part_one"`.
 * In CSS keyframes can be used to describe animations. 
