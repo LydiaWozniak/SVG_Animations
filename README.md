@@ -71,7 +71,7 @@ caniuse.com
  animation: myAnimation 10s ease-out 2s 0 none;
 }
 ```
-
+Animation property shorthand
 `animation: keyframes_name duration timing_function delay iteration_count fill_mode;`
 
 ### Performance
