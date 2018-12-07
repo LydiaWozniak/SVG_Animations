@@ -142,33 +142,32 @@ Animation Examples from around the Web
 <table>
 <thead>
 <tr>
-  <th> 
-    <img src="./assets/examples/DisneyNow_BH6.gif" width="400">
+<th> 
+<img src="./assets/examples/DisneyNow_BH6.gif" width="400">
 
-    [DisneyNow](https://disneynow.go.com/shows/pokemon-the-series-sun-moon2)
-  </th>
-    <img src="./assets/examples/BBC_BiteSize.gif" width="400">
+[DisneyNow](https://disneynow.go.com/shows/pokemon-the-series-sun-moon2)
+</th>
+<th>
+<img src="./assets/examples/BBC_BiteSize.gif" width="400">
 
-    [BiteSize](https://www.bbc.com/bitesize)
+[BiteSize](https://www.bbc.com/bitesize)
 
-    [Article from team](https://medium.com/bbc-design-engineering/20th-anniversary-bitesize-8114cf957dd7)
-  <th>
-
-  </th>
+[Article from team](https://medium.com/bbc-design-engineering/20th-anniversary-bitesize-8114cf957dd7)
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>
-    <img src="./assets/examples/CBBC_ani.gif" width="400">
+<td>
+<img src="./assets/examples/CBBC_ani.gif" width="400">
 
-    [CBBC](https://www.bbc.co.uk/cbbc)
-  </td>
-  <td>
-    <img src="./assets/examples/google_marthaGraham.gif" width="400">
+[CBBC](https://www.bbc.co.uk/cbbc)
+</td>
+<td>
+<img src="./assets/examples/google_marthaGraham.gif" width="400">
 
-    [Martha Graham, google doodle](https://www.google.com/doodles/martha-grahams-117th-birthday)
-  </td>
+[Martha Graham, google doodle](https://www.google.com/doodles/martha-grahams-117th-birthday)
+</td>
 </tr></tbody></table>
 
 
