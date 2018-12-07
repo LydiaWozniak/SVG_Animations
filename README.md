@@ -181,7 +181,11 @@ CSS Sprite Sheet Animations with steps()
 </table>
 
 
+CSS Kebab sprite sheet animation
 
+<img src="./assets/examples/Kebab-ed.gif" width="400">
+
+[source] (https://codepen.io/LydiaMoo/pen/zyOKRW)
 
 
 
