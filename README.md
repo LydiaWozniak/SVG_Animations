@@ -185,7 +185,7 @@ CSS Sprite Sheet Animations with steps()
 
 Using the `steps()` and a sprite sheet within the animation CSS property you can create a zoetrope style effect.
 
-<img src="./assets/my-animations/kebab_ani[1].png" width="400">
+<img src="./assets/my-animations/kebab_ani[1].png" width="900">
 
 
 <img src="./assets/examples/Kebab-ed.gif" width="400">
