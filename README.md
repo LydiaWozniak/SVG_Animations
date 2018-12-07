@@ -147,6 +147,8 @@ Animation Examples from around the Web
 
 [BiteSize](https://www.bbc.com/bitesize)
 
+[Article from team](https://medium.com/bbc-design-engineering/20th-anniversary-bitesize-8114cf957dd7)
+
 <img src="./assets/examples/CBBC_ani.gif" width="400">
 
 [CBBC](https://www.bbc.co.uk/cbbc)
