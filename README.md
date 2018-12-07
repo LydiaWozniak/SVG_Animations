@@ -155,6 +155,9 @@ Animation Examples from around the Web
 [BiteSize](https://www.bbc.com/bitesize)
 
 [Article from team](https://medium.com/bbc-design-engineering/20th-anniversary-bitesize-8114cf957dd7)
+
+CSS Sprite Sheet Animations with steps()
+
 </th>
 </tr>
 </thead>
@@ -169,6 +172,9 @@ Animation Examples from around the Web
 <img src="./assets/examples/google_marthaGraham.gif" width="400">
 
 [Martha Graham, google doodle](https://www.google.com/doodles/martha-grahams-117th-birthday)
+
+CSS Sprite Sheet Animations with steps()
+
 </td>
 </tr>
 </tbody>
