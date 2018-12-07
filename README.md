@@ -137,3 +137,6 @@ ReactCssTransitionGroup ` react-transition-group `
 *
 *
 
+Animation Examples from around the Web
+
+<img src="./assets/examples/DisneyNow_BH6.gif" width="500">
