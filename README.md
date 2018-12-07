@@ -141,7 +141,7 @@ Animation Examples from around the Web
 
 <img src="./assets/examples/DisneyNow_BH6.gif" width="400">
 
-[disney](https://disneynow.go.com/shows/pokemon-the-series-sun-moon2)
+[DisneyNow](https://disneynow.go.com/shows/pokemon-the-series-sun-moon2)
 
 <img src="./assets/examples/BBC_BiteSize.gif" width="400">
 
@@ -153,4 +153,4 @@ Animation Examples from around the Web
 
 <img src="./assets/examples/google_marthaGraham.gif" width="400">
 
-[Graham](https://www.google.com/doodles/martha-grahams-117th-birthday)
+[Martha Graham, google doodle](https://www.google.com/doodles/martha-grahams-117th-birthday)
