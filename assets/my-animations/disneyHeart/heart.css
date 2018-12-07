@@ -1,0 +1,15 @@
+*{
+    background-color: blue;
+  }
+  
+  .filling {
+    transform-origin: 50%;
+    animation: fillHeart 2s ease-out 1s 100;
+  }
+  
+  @keyframes fillHeart {
+      from {transform: scale(0)}
+      30% {transform: scale(1)} 
+      to {transform: scale(1)}
+  }
+  
