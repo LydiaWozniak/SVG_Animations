@@ -170,7 +170,9 @@ Animation Examples from around the Web
 
 [Martha Graham, google doodle](https://www.google.com/doodles/martha-grahams-117th-birthday)
 </td>
-</tr></tbody></table>
+</tr>
+</tbody>
+</table>
 
 
 
