@@ -137,7 +137,7 @@ ReactCssTransitionGroup ` react-transition-group `
 *
 *
 
-Animation Examples from around the Web
+## Animation Examples from around the Web
 
 <table>
 <thead>
@@ -181,7 +181,12 @@ CSS Sprite Sheet Animations with steps()
 </table>
 
 
-CSS Kebab sprite sheet animation
+## CSS Kebab sprite sheet animation
+
+Using the `steps()` and a sprite sheet within the animation CSS property you can create a zoetrope style effect.
+
+<img src="./assets/my-animations/kebab_ani[1].png" width="400">
+
 
 <img src="./assets/examples/Kebab-ed.gif" width="400">
 
