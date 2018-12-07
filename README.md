@@ -146,6 +146,8 @@ Animation Examples from around the Web
 <img src="./assets/examples/DisneyNow_BH6.gif" width="400">
 
 [DisneyNow](https://disneynow.go.com/shows/pokemon-the-series-sun-moon2)
+
+[CodePen](https://codepen.io/LydiaMoo/pen/OrLVmg)
 </th>
 <th>
 <img src="./assets/examples/BBC_BiteSize.gif" width="400">
